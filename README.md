@@ -47,9 +47,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
 <br>
-<img align="left" alt="GitHub" style="padding-top:5px;" height ="42px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
-
-<img align="left" alt="Terminal" style="padding-top:5px;" height ="42px" src="./img/terminal-dark.svg" />
 <a href="https://latex-tutorial.com/" target="_blank"><img align="left" alt="LaTeX" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"></a>
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
 <a href="https://numpy.org/" target="_blank"><img align="left" alt="NumPy" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/></a>
