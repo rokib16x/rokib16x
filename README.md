@@ -13,7 +13,8 @@
 - 🌱 &nbsp; Currently learning Flutter, JavaScript.
 - 👯 &nbsp; Looking to collaborate with web developers.
 - 🥅 &nbsp; 2023 Goals: Learn more about web and new technologies.
-- 📝 &nbsp; Checkout my [CV]()
+- 📝 &nbsp; Checkout my [CV](https://drive.google.com/file/d/1lYvSHx6cVlPUkvHsJCC0x0W0QvkWd3nk/view?usp=share_link)
+- 📫 &nbsp; How to reach me: [Email me](mailto:rokib16x@gmail.com)
 - ⚡ &nbsp; Fun fact: I love to watch [football matches](https://www.fcbarcelona.com/en/) , and watch [movies](https://www.imdb.com/user/ur162754574/).
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
