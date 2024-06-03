@@ -8,11 +8,11 @@
 
 ## I'm a Learner, Programmer, Tech-Enthusiast , and cinephile!!
 
-- 🎓 &nbsp; Currently doing my B.Sc. in Computer Science & Engineering from <a href="https://www.uiu.ac.bd/">United International University</a>
-- 🔭 &nbsp; Currently working on **Web Development**
-- 🌱 &nbsp; Currently learning Flutter, JavaScript.
+- 🎓 &nbsp; I have recently graduated and hold a B.Sc. in Computer Science & Engineering from <a href="https://www.uiu.ac.bd/">United International University</a>
+- 🔭 &nbsp; Currently working on **Mobile Application Development**
+- 🌱 &nbsp; Currently learning React Native, JavaScript.
 - 👯 &nbsp; Looking to collaborate with web developers.
-- 🥅 &nbsp; 2023 Goals: Learn more about web and new technologies.
+- 🥅 &nbsp; 2024 Goals: Learn more about web and new technologies.
 - 📝 &nbsp; Checkout my [CV](https://drive.google.com/file/d/1z3oR_p3RfEDteYwco2T_tztzLTsMeKEW/view?usp=share_link)
 - 📫 &nbsp; How to reach me: [Email me](mailto:rokib16x@gmail.com)
 - ⚡ &nbsp; Fun fact: I love to watch [football matches](https://www.fcbarcelona.com/en/) , and watch [movies](https://www.imdb.com/user/ur162754574/).
