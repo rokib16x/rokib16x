@@ -13,7 +13,7 @@
 - 🌱 &nbsp; Currently learning React Native, JavaScript.
 - 👯 &nbsp; Looking to collaborate with web developers.
 - 🥅 &nbsp; 2024 Goals: Learn more about web and new technologies.
-- 📝 &nbsp; Checkout my [CV]([https://drive.google.com/file/d/1HfUi27F3uMQ9rCAl6wZH1pj-K2CNUReS/view?usp=sharing])
+- 📝 &nbsp; Checkout my [CV](https://drive.google.com/file/d/1HfUi27F3uMQ9rCAl6wZH1pj-K2CNUReS/view?usp=sharing)
 - 📫 &nbsp; How to reach me: [Email me](mailto:rokibulhasanshad@gmail.com)
 - ⚡ &nbsp; Fun fact: I love to watch [football matches](https://www.fcbarcelona.com/en/) , and watch movies [letterboxd](https://boxd.it/4JG4B).
 
