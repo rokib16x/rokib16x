@@ -13,9 +13,9 @@
 - 🌱 &nbsp; Currently learning React Native, JavaScript.
 - 👯 &nbsp; Looking to collaborate with web developers.
 - 🥅 &nbsp; 2024 Goals: Learn more about web and new technologies.
-- 📝 &nbsp; Checkout my [CV](https://drive.google.com/file/d/1z3oR_p3RfEDteYwco2T_tztzLTsMeKEW/view?usp=share_link)
+- 📝 &nbsp; Checkout my [CV]([https://drive.google.com/file/d/1z3oR_p3RfEDteYwco2T_tztzLTsMeKEW/view?usp=share_link](https://drive.google.com/file/d/1HfUi27F3uMQ9rCAl6wZH1pj-K2CNUReS/view?usp=sharing))
 - 📫 &nbsp; How to reach me: [Email me](mailto:rokibulhasanshad@gmail.com)
-- ⚡ &nbsp; Fun fact: I love to watch [football matches](https://www.fcbarcelona.com/en/) , and watch [movies](https://www.imdb.com/user/ur162754574/).
+- ⚡ &nbsp; Fun fact: I love to watch [football matches](https://www.fcbarcelona.com/en/) , and watch movies[letterboxd](https://boxd.it/4JG4B).
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
