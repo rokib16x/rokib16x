@@ -1,23 +1,31 @@
-## Hey there👋, I'm Rokibul Hasan👋 
-
-
+## Hey there 👋, I'm Rokibul Hasan 👋  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rokib16x?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 ---
 
-## I'm a Learner, Programmer, Tech-Enthusiast , and cinephile!!
+## I'm a Software Engineer, Mobile App Developer & Tech Enthusiast 🚀
 
-- 🎓 &nbsp; I have recently graduated and hold a B.Sc. in Computer Science & Engineering from <a href="https://www.uiu.ac.bd/">United International University</a>
-- 🔭 &nbsp; Currently working on **Mobile Application Development**
-- 🌱 &nbsp; Currently learning React Native, JavaScript.
-- 👯 &nbsp; Looking to collaborate with web developers.
-- 🥅 &nbsp; 2025 Goals: Learn more about web and new technologies.
-- 📝 &nbsp; Checkout my [CV](https://drive.google.com/file/d/1HfUi27F3uMQ9rCAl6wZH1pj-K2CNUReS/view?usp=sharing)
-- 📫 &nbsp; How to reach me: [Email me](mailto:rokibulhasanshad@gmail.com)
-- ⚡ &nbsp; Fun fact: I love to watch [football matches](https://www.fcbarcelona.com/en/) , and watch movies [letterboxd](https://boxd.it/4JG4B).
+- 🎓 B.Sc. in Computer Science & Engineering from **United International University**
+- 🔭 Currently working on **Mobile Application Development (React Native / Expo)**
+- 🌱 Currently learning **Advanced React Native, Next.js, Astro, Backend APIs**
+- 👯 Looking to collaborate on **Web & Mobile projects (SaaS, Startup ideas)**
+- 🥅 2026 Goals: Build **production-grade apps, SaaS products & open-source tools**
+- 📝 Checkout my [CV](https://drive.google.com/file/d/1HfUi27F3uMQ9rCAl6wZH1pj-K2CNUReS/view)
+- 📫 How to reach me: [Email](mailto:rokibulhasanshad@gmail.com)
+- ⚡ Fun fact: I love **football ⚽ (Barça fan)** and watching movies 🎬 (cinephile)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
+
+---
+
+## What I'm focusing on right now 👨‍💻
+
+- Building **cross-platform apps** with React Native + Expo  
+- Publishing apps to **Google Play & Apple App Store**  
+- Deploying websites using **Vercel, Namecheap & Astro**  
+- Working with **DNS, domains, hosting, and production setups**  
+- Creating **internal tools & dashboards for businesses**
 
 ---
 
@@ -34,42 +42,61 @@
 
 ---
 
-### Languages and Technologies:
+## Tech Stack 🛠️
 
-<a href="https://www.w3schools.com/c/index.php/" target="_blank"><img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
-<a href="https://www.w3schools.com/cpp/default.asp" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
-<a href="https://html.com/" target="_blank"><img align="left" alt="HTML5" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
-<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img align="left" alt="CSS3" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+### Languages
+- JavaScript / TypeScript  
+- Python  
+- Java  
+- C / C++  
+- PHP  
 
-<img align="left" alt="JavaScript" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
-<br>
-<a href="https://latex-tutorial.com/" target="_blank"><img align="left" alt="LaTeX" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"></a>
-<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
-<a href="https://numpy.org/" target="_blank"><img align="left" alt="NumPy" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/></a>
-<a href="https://opencv.org/" target="_blank"><img align="left" alt="OpenCV" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"/></a>
-<a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img align="left" alt="PyCharm" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"/></a>
+### Frontend
+- React Native  
+- React.js  
+- Next.js  
+- Astro  
+- HTML5 / CSS3  
 
-<br>
-<br>
-<br>
+### Backend & Tools
+- Node.js  
+- REST APIs  
+- MySQL  
+- Git / GitHub  
+- Linux  
+
+### Dev & Deployment
+- Expo  
+- Vercel  
+- Namecheap Hosting  
+- DNS & Domain Management  
+- Play Store & App Store Publishing  
 
 ---
 
-<div>
+## Currently Exploring 📚
+- SaaS architecture  
+- Authentication systems  
+- App monetization  
+- CI/CD pipelines  
+- Cloud deployment patterns  
 
-### GitHub Stats:
+---
 
+## GitHub Stats 📊
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokib16x&layout=compact&theme=algolia&langs_count=10&card_width=265&border_radius=20%)](https://github.com/rokib16x/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Rokibul Hasan's github stats](https://github-readme-stats.vercel.app/api?username=rokib16x&theme=algolia&border_radius=20%)](https://github.com/rokib16x)
 
-<div>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokib16x&layout=compact&theme=algolia&langs_count=10&card_width=265&border_radius=20%)](https://github.com/rokib16x/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; [![Rokibul Hasan's github stats](https://github-readme-stats.vercel.app/api?username=rokib16x&theme=algolia&border_radius=20%)](https://github.com/rokib16x)
+### A bit more about me ✨
 
-</div>
+I enjoy working on **real-world products**, especially:
+- Internal business apps  
+- Startup MVPs  
+- Automation tools  
+- Developer utilities  
+
+My long-term goal is to become a **product-focused software engineer** building scalable apps that people actually use.
