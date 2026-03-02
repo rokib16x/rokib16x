@@ -3,9 +3,6 @@
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono:wght@700&pause=1000&color=2196F3&width=435&lines=Software+Engineer;Full-Stack+Developer;Mobile+App+Developer+(React+Native);Database+Engineer+(PostgreSQL+%2F+Supabase);Cloud+App+Developer+(Vercel+%2F+Firebase+%2F+Supabase);Product+Designer;Technical+Project+Manager" alt="Typing SVG" />
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=rokib16x&style=for-the-badge&color=2196F3" alt="Profile Views"/>
-
 </div>
 
 ---
@@ -14,12 +11,13 @@
 
 # 👋 Hello, World! I'm Rokibul Hasan
 
-### <samp>A passionate Full Stack Software Engineer building scalable, user-centric digital experiences</samp>
+### A passionate Full Stack Software Engineer building scalable, user-centric digital experiences
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rokib.dev-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://rokib.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rokibulhasanshad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rokibul-hasan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rokibulhasanshad)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rokib16x)
+[![Profile Views](https://komarev.com/ghpvc/?username=rokib16x&style=for-the-badge&color=2196F3)](https://github.com/rokib16x)
 
 </div>
 
@@ -27,70 +25,55 @@
 
 <img align="right" alt="Coding GIF" src="img/fiasco.gif" width="35%"/>
 
-## <samp>👨‍💻 About Me</samp>
+## 👨‍💻 About Me
 
-<samp>
+I'm a **Full Stack Software Engineer** from Dhaka, Bangladesh with a B.Sc. in Computer Science & Engineering from **United International University**. I enjoy taking ideas from concept to deployment — whether that's a mobile app on the Play Store, a SaaS platform handling real users, or a quick browser tool that solves a specific problem well.
 
-I'm a **Full Stack Software Engineer** and **Mobile App Developer** with a B.Sc. in Computer Science & Engineering from **United International University**. I specialize in building end-to-end solutions that combine beautiful interfaces with robust backend systems.
+I work across the stack — React Native on the mobile side, Next.js and React for web, Node.js and PostgreSQL on the backend, and Supabase/Firebase for cloud services. Most of my recent work has been around building production systems that actually ship to real users, which is the part I care about most.
 
-### <br/>💼 What I Do
-
-I transform ideas into production-ready applications across web, mobile, and cloud platforms. My expertise spans:
-
-- **Frontend Development**: Building responsive, accessible web apps with **Next.js**, **React**, and modern CSS frameworks
-- **Mobile Development**: Creating cross-platform apps with **React Native** and **Expo**
-- **Backend & Databases**: Designing scalable APIs and database architectures with **PostgreSQL**, **Supabase**, and **Firebase**
-- **Cloud Deployment**: Deploying and managing applications on **Vercel**, **Firebase**, and **Supabase**
-- **Product Design**: Crafting intuitive user experiences and interfaces
-
-### <br/>🎯 My Philosophy
-
-> *"If I don't know something, I'm honest about it — then I find the right answer."*
-
-I believe in clean code, continuous learning, and building products that solve real problems. I'm passionate about open source and contributing to the developer community.
-
-</samp>
+When I don't know something, I say so — and then I go figure it out.
 
 <br clear="right"/>
 
 ---
 
-## <samp>🚀 Featured Projects</samp>
+## 🚀 Featured Projects
 
-<samp>
-
-### <br/>📱 Mobile Applications
+### 📱 Mobile Applications
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**GME Service App**](https://play.google.com/store/apps/details?id=com.gmeservice.gmeserviceapp) | React Native, Expo | Service booking mobile app with real-time updates |
-| [**Dhaka Traffic Alert**](https://github.com/rokib16x/dhaka-traffic-alert) | React Native, Firebase | Real-time traffic updates for Dhaka city |
-| [**Sobar Jonno Pani**](https://github.com/rokib16x/sobar-jonno-pani) | React Native, Firebase | Water delivery service app with location tracking |
+| [**GME Service App**](https://play.google.com/store/apps/details?id=com.gmeservice.gmeserviceapp) | React Native, Expo, PostgreSQL | Production HR & employee management app — attendance tracking, leave management, background location. Live on Google Play. |
+| [**Minnah**](https://github.com/rokib16x) | React Native, API Integration | Islamic companion app with prayer times, mosque finder, digital tasbeeh, zakat calculator, and Quran content. |
 
-### <br/>🌐 Web Applications
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**Portfolio Website**](https://rokib.dev) | Next.js, Tailwind, Framer Motion | Interactive portfolio with animations |
-| [**E-Commerce Platform**](https://github.com/rokib16x) | Next.js, Stripe, Supabase | Full-stack e-commerce solution |
-| [**AI Chat Assistant**](https://github.com/rokib16x) | Next.js, OpenAI API | Intelligent chatbot integration |
-
-### <br/>🛠️ Tools & Libraries
+### 🌐 Web Applications
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**React Native Components**](https://github.com/rokib16x) | TypeScript, React Native | Reusable UI component library |
-| [**Next.js Starter Kit**](https://github.com/rokib16x) | Next.js, TypeScript | Production-ready boilerplate |
+| [**Presswayy**](https://presswayy.com) | Next.js, Node.js, PostgreSQL | AI-powered Facebook page automation platform. Live SaaS product with real business clients. |
+| [**Marvel – Be You**](https://github.com/rokib16x) | React, Vite, Supabase | Influencer awards & voting platform. Full-stack with dynamic APIs and real-time features. |
+| [**Ocean Healing**](https://github.com/rokib16x) | React, Vite | Professional therapy & wellness platform for a client. SEO-optimized, calming UX. |
+| [**FiFiasco**](https://github.com/rokib16x) | React, Finance APIs | Financial market dashboard with real-time data visualization and trend tracking. |
+| [**AppsyDev**](https://github.com/rokib16x) | Open Source, AI | Open-source mobile UI pattern library with AI-powered prompt generation for coding assistants. |
+| [**UniHub**](https://github.com/rokib16x) | PHP, MySQL | University LMS with authentication, email verification, and academic workflow management. |
+| [**AgroGrove**](https://github.com/rokib16x) | PHP, MySQL | Agricultural marketplace connecting farmers, workers, and instructors. |
 
-</samp>
+### 🔧 Developer Tools
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**WebPify**](https://github.com/rokib16x) | JavaScript, Browser API | Client-side image converter to WebP format. No server needed, instant conversion. |
+| [**BgRemovify**](https://github.com/rokib16x) | AI, Computer Vision | AI-powered background remover. Runs 100% offline in the browser for privacy. |
+| [**Extractify**](https://github.com/rokib16x) | JavaScript, Video API | Video-to-frame extractor for thumbnails and creative assets. Browser-based. |
+| [**Labelify**](https://github.com/rokib16x) | Canvas API, JavaScript | Privacy-focused image labeling tool. All processing happens locally, no uploads. |
 
 ---
 
-## <samp>🛠️ Tech Stack</samp>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### <samp>💻 Languages & Frameworks</samp>
+### 💻 Languages & Frameworks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -99,7 +82,7 @@ I believe in clean code, continuous learning, and building products that solve r
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### <samp>📱 Mobile & Frontend</samp>
+### 📱 Mobile & Frontend
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -108,7 +91,7 @@ I believe in clean code, continuous learning, and building products that solve r
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### <samp>🔧 Backend & Databases</samp>
+### 🔧 Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -117,10 +100,9 @@ I believe in clean code, continuous learning, and building products that solve r
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### <samp>☁️ Cloud & DevOps</samp>
+### ☁️ Cloud & DevOps
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Hosted-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -128,85 +110,49 @@ I believe in clean code, continuous learning, and building products that solve r
 
 ---
 
-## <samp>📊 GitHub Analytics</samp>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <!-- GitHub Stats & Top Languages -->
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rokib16x&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github" alt="Rokib's GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=rokib16x&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github" alt="Rokib's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib16x&layout=compact&theme=radical&langs_count=10&card_width=265&border_radius=20%" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rokib16x&layout=compact&theme=radical&langs_count=10&card_width=265&border_radius=20%" alt="Top Languages" />
       </td>
     </tr>
   </table>
-
-  <!-- Contribution Streak -->
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rokib16x&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-  <!-- GitHub Trophies -->
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rokib16x&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophy" />
 
 </div>
 
 ---
 
-## <samp>🎯 Current Focus & Goals</samp>
+## 🎯 Current Focus
 
-<samp>
-
-### <br/>🔭 What I'm Working On
-
-- Building production-grade **mobile applications** with React Native & Expo
-- Developing **SaaS products** and startup ideas
-- Exploring **AI/ML integration** in web and mobile apps
-- Contributing to **open source** projects
-
-### <br/>🌱 What I'm Learning
-
-- Advanced **React Native** architecture and performance optimization
-- **Next.js 15** App Router and Server Components
-- **PostgreSQL** database design and optimization
-- **Cloud infrastructure** and DevOps best practices
-
-### <br/>🥅 2026 Goals
-
-- Launch **3+ production apps** on app stores
-- Contribute to **10+ open source** repositories
-- Build a **SaaS product** with 100+ users
-- Master **backend architecture** and system design
-
-</samp>
+- 🔭 Scaling a **SaaS platform** and shipping mobile apps to production
+- 🌱 Going deeper into **React Native performance**, **Next.js App Router**, and **PostgreSQL optimization**
+- 🛠️ Building open-source developer tools that run entirely in the browser
+- 🎯 Focused on launching products that reach real users — not just side projects that sit on GitHub
 
 ---
 
-## <samp>🤝 Let's Connect</samp>
+## 🤝 Let's Connect
 
 <div align="center">
 
-<samp>
+I'm always open to discussing new projects, freelance work, or just chatting about tech. Feel free to reach out.
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Let's build something amazing together!
+<br/>
 
-</samp>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rokibul-hasan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rokibulhasanshad)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rokib16x)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rokibulhasanshad@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://rokib.dev)
 
-<br/><br/>
+<br/>
 
-<samp>✨ Thanks for visiting my profile! Have an amazing day! ✨</samp>
-
-<br/><br/>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer" alt="Footer"/>
 
 </div>
