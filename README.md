@@ -27,11 +27,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Software Engineer** from Dhaka, Bangladesh with a B.Sc. in Computer Science & Engineering from **United International University**. I enjoy taking ideas from concept to deployment — whether that's a mobile app on the Play Store, a SaaS platform handling real users, or a quick browser tool that solves a specific problem well.
+I am a **Full Stack Software Engineer** based in Dhaka, Bangladesh. I enjoy taking ideas from concept to deployment, whether that means launching a mobile app on the Play Store, building a SaaS platform for real users, or creating a focused browser tool that solves a specific problem well.
 
-I work across the stack — React Native on the mobile side, Next.js and React for web, Node.js and PostgreSQL on the backend, and Supabase/Firebase for cloud services. Most of my recent work has been around building production systems that actually ship to real users, which is the part I care about most.
+I work across the stack: React Native for mobile, Next.js and React for the web, Node.js and PostgreSQL on the backend, and Supabase or Firebase for cloud services. Most of my recent work has centered on building production-ready systems that ship to real users, which is the part I care about most.
 
-When I don't know something, I say so — and then I go figure it out.
+If I don’t know something, I say so, and then I go figure it out.
 
 <br clear="right"/>
 
