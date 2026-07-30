@@ -33,7 +33,8 @@ I work in React Native and Expo on mobile, Next.js on the web, and Postgres unde
 
 Two things I've shipped that you can go look at:
 
-- **[GME Service App](https://play.google.com/store/apps/details?id=com.gmeservice.gmeserviceapp)** — HR and attendance app on Google Play. React Native, Expo, Postgres, background location.
+- **GME Service App** — HR and attendance app on Google Play. React Native, Expo, Postgres, background location. <!-- TODO: Play Store link removed — the old URL (id=com.gmeservice.gmeserviceapp) returns 404. Add the correct listing URL here. -->
+
 - **[Presswayy](https://presswayy.com)** — AI-powered Facebook page automation. Live SaaS, real business customers.
 
 Lately I've been putting more of my own work out in the open — small tools I needed and couldn't find, mostly. That's the section below, and it's the part I want to keep growing.
@@ -105,10 +106,10 @@ Browser-based AR dressing room. Garments track your shoulders and hips in real t
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rokib16x&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github" alt="Rokib's GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=rokib16x&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github" alt="Rokib's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib16x&layout=compact&theme=radical&langs_count=10&card_width=265&border_radius=20%" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rokib16x&layout=compact&theme=radical&langs_count=10&card_width=265&border_radius=20%" alt="Top Languages" />
       </td>
     </tr>
   </table>
