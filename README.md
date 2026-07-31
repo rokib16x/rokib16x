@@ -27,17 +27,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack engineer in Dhaka, Bangladesh. Most of what I build is client and product work, so a lot of it lives in private repos — but it's in the Play Store, or it's a SaaS with paying customers, or it's a site a real business runs on.
+I'm a full-stack engineer in Dhaka, Bangladesh. Most of what I build is client and product work, so a lot of it lives in private repos, but it's in the Play Store, or it's a SaaS with paying customers, or it's a site a real business runs on.
 
 I work in React Native and Expo on mobile, Next.js on the web, and Postgres underneath. The parts I find interesting are usually the unglamorous ones: keeping background location alive on Android when the OEM would rather kill it, making a Postgres query stop being the reason a screen feels slow, figuring out which of two plausible architectures will still be workable in six months.
 
 Two things I've shipped that you can go look at:
 
-- **GME Service App** — HR and attendance app on Google Play. React Native, Expo, Postgres, background location. <!-- TODO: Play Store link removed — the old URL (id=com.gmeservice.gmeserviceapp) returns 404. Add the correct listing URL here. -->
+- **GME Service App**: HR and attendance app on Google Play. React Native, Expo, Postgres, background location. <!-- TODO: Play Store link removed. The old URL (id=com.gmeservice.gmeserviceapp) returns 404. Add the correct listing URL here. -->
 
-- **[Presswayy](https://presswayy.com)** — AI-powered Facebook page automation. Live SaaS, real business customers.
+- **[Presswayy](https://presswayy.com)**: AI-powered Facebook page automation. Live SaaS, real business customers.
 
-Lately I've been putting more of my own work out in the open — small tools I needed and couldn't find, mostly. That's the section below, and it's the part I want to keep growing.
+Lately I've been putting more of my own work out in the open. Mostly small tools I needed and couldn't find. That's the section below, and it's the part I want to keep growing.
 
 If I don't know something, I say so, and then I go figure it out.
 
@@ -50,10 +50,10 @@ If I don't know something, I say so, and then I go figure it out.
 Things I've built and released. Each one started as a problem I actually had.
 
 **[listnr](https://github.com/rokib16x/listnr)** · Swift, WhisperKit, CoreML
-A local meeting transcriber for Apple Silicon Macs. Captures your mic and system audio as two *separate* lanes and transcribes both on-device — because mixing them first makes Whisper invent confident, wrong sentences. Nothing leaves your machine. No bot joins the call.
+A local meeting transcriber for Apple Silicon Macs. Captures your mic and system audio as two *separate* lanes and transcribes both on-device, because mixing them first makes Whisper invent confident, wrong sentences. Nothing leaves your machine. No bot joins the call.
 
 **[AppsyDev](https://github.com/rokib16x/appsyverse)** · Next.js, TypeScript, Gemini · [live](https://appsyverse.vercel.app)
-Mobile UI pattern library — 24,000+ screen references across 34 categories, with AI-generated implementation prompts for coding assistants. MIT licensed.
+Mobile UI pattern library with 24,000+ screen references across 34 categories, with AI-generated implementation prompts for coding assistants. MIT licensed.
 
 **[BgRemovify](https://github.com/rokib16x/bgremovify)** · React, TypeScript, @imgly · [live](https://bgremovify.vercel.app)
 AI background removal that runs entirely in the browser. Your images never get uploaded anywhere.
@@ -62,7 +62,7 @@ AI background removal that runs entirely in the browser. Your images never get u
 Batch image-to-WebP converter with adjustable compression and side-by-side comparison. Client-side, no server.
 
 **[Virtual Try-On](https://github.com/rokib16x/virtual-try-on)** · Next.js, MediaPipe Pose · [live](https://rokib-virtual.vercel.app)
-Browser-based AR dressing room. Garments track your shoulders and hips in real time via pose landmarks — no server, no GPU cost.
+Browser-based AR dressing room. Garments track your shoulders and hips in real time via pose landmarks. No server, no GPU cost.
 
 ---
 
@@ -115,7 +115,7 @@ Browser-based AR dressing room. Garments track your shoulders and hips in real t
   exclude_repo=ShostaMart: that repo commits ~83MB of build output under public/,
   which Linguist counted as 12.5MB JavaScript + 4.7MB CSS and made this card read
   "JavaScript 66%, TypeScript 0.4%". Fixed at the source too, via
-  `public/** linguist-vendored` in ShostaMart's .gitattributes — but the card
+  `public/** linguist-vendored` in ShostaMart's .gitattributes, but the card
   service caches per-user language data for hours, so the exclusion is what makes
   it correct immediately. Once the cache rolls over, exclude_repo can be dropped.
 -->
@@ -129,7 +129,7 @@ Browser-based AR dressing room. Garments track your shoulders and hips in real t
 
 - 🔭 Scaling Presswayy and shipping mobile apps to production
 - 🌱 Going deeper on React Native performance, Next.js App Router, and Postgres query optimization
-- 🛠️ Releasing more of my own tools as open source — on-device AI and browser-only processing are where my head is right now
+- 🛠️ Releasing more of my own tools as open source. On-device AI and browser-only processing are where my head is right now
 - 🤝 Open to contributions on anything above, especially [listnr](https://github.com/rokib16x/listnr)
 
 ---
