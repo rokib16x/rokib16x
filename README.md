@@ -99,20 +99,27 @@ Browser-based AR dressing room. Garments track your shoulders and hips in real t
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Most Used Languages
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=rokib16x&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github" alt="Rokib's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rokib16x&layout=compact&theme=radical&langs_count=10&card_width=265&border_radius=20%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+<!--
+  Stats card (stars/commits/PRs) intentionally removed: the public API cannot see
+  private repositories, so it counted almost none of my actual work and rendered
+  "Total Stars Earned: 0". To bring it back with real numbers it needs a
+  self-hosted instance with a PAT and count_private=true.
+
+  hide= drops Linguist noise: CSS/HTML from Bootstrap templates, and Hack/Assembly,
+  which are misdetections inside the older PHP projects.
+
+  exclude_repo=ShostaMart: that repo commits ~83MB of build output under public/,
+  which Linguist counted as 12.5MB JavaScript + 4.7MB CSS and made this card read
+  "JavaScript 66%, TypeScript 0.4%". Fixed at the source too, via
+  `public/** linguist-vendored` in ShostaMart's .gitattributes — but the card
+  service caches per-user language data for hours, so the exclusion is what makes
+  it correct immediately. Once the cache rolls over, exclude_repo can be dropped.
+-->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rokib16x&layout=compact&theme=radical&langs_count=8&exclude_repo=ShostaMart&hide=css,html,hack,assembly,blade&card_width=340&border_radius=10" alt="Most used languages" />
 
 </div>
 
