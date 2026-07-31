@@ -33,8 +33,7 @@ I work in React Native and Expo on mobile, Next.js on the web, and Postgres unde
 
 Two things I've shipped that you can go look at:
 
-- **GME Service App**: HR and attendance app on Google Play. React Native, Expo, Postgres, background location. <!-- TODO: Play Store link removed. The old URL (id=com.gmeservice.gmeserviceapp) returns 404. Add the correct listing URL here. -->
-
+- **[GME Service App](https://play.google.com/store/apps/details?id=com.gmegroup.employeemanagement)**: HR and attendance app on Google Play, used internally at GME Group. React Native, Expo, Postgres, background location.
 - **[Presswayy](https://presswayy.com)**: AI-powered Facebook page automation. Live SaaS, real business customers.
 
 Lately I've been putting more of my own work out in the open. Mostly small tools I needed and couldn't find. That's the section below, and it's the part I want to keep growing.
