@@ -13,7 +13,7 @@
 
 ### Full-stack engineer. I ship things people actually use.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rokib.dev-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://rokib.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rokib.dev-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://www.rokib.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rokibulhasanshad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rokibulhasanshad)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rokib16x)
@@ -144,7 +144,7 @@ I'm always open to discussing new projects, freelance work, or just chatting abo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rokibulhasanshad)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rokib16x)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rokibulhasanshad@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://rokib.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://www.rokib.dev)
 
 <br/>
 
