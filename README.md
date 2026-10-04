@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono:wght@700&pause=1000&color=2196F3&width=435&lines=Software+Engineer;Full-Stack+Developer;Mobile+App+Developer+(React+Native)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono:wght@700&pause=1000&color=2196F3&width=435&lines=Software+Engineer;Full-Stack+Developer;iOS+%26+Android+App+Developer;macOS+Open+Source+Maker" alt="Typing SVG" />
 
 </div>
 
@@ -27,16 +27,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack engineer in Dhaka, Bangladesh. Most of what I build is client and product work, so a lot of it lives in private repos, but it's in the Play Store, or it's a SaaS with paying customers, or it's a site a real business runs on.
+I'm a full-stack engineer in Dhaka, Bangladesh. I build mobile apps, web products and, more and more, native Mac tools. A lot of my client work lives in private repos, but it's in the app stores, or it's a SaaS with paying customers, or it's a site a real business runs on.
 
-I work in React Native and Expo on mobile, Next.js on the web, and Postgres underneath. The parts I find interesting are usually the unglamorous ones: keeping background location alive on Android when the OEM would rather kill it, making a Postgres query stop being the reason a screen feels slow, figuring out which of two plausible architectures will still be workable in six months.
+I work in React Native and Expo on mobile, Swift on the Mac, Next.js on the web, and Postgres underneath. The parts I find interesting are usually the unglamorous ones: keeping background location alive on Android when the OEM would rather kill it, making a Postgres query stop being the reason a screen feels slow, getting an app through App Store review, figuring out which of two plausible architectures will still be workable in six months.
 
-Two things I've shipped that you can go look at:
+## 📲 Shipped
 
-- **[GME Service App](https://play.google.com/store/apps/details?id=com.gmegroup.employeemanagement)**: HR and attendance app on Google Play, used internally at GME Group. React Native, Expo, Postgres, background location.
+- **[Lyffe: Life Planner](https://apps.apple.com/us/app/lyffe-life-planner/id6761336296)**: my own app, live on the App Store since September 2026. Countdowns, tasks, habits, journal and personal finance in one place. No account, no server, no analytics; everything stays on the phone. Solo build and release, from React Native and Expo to the store listing.
+- **[GME Service](https://apps.apple.com/us/app/gme-service/id6758160475)** ([Google Play](https://play.google.com/store/apps/details?id=com.gmegroup.employeemanagement)): HR and attendance app used internally at GME Group, on iOS and Android. React Native, Expo, Postgres, background location.
 - **[Presswayy](https://presswayy.com)**: AI-powered Facebook page automation. Live SaaS, real business customers.
-
-Lately I've been putting more of my own work out in the open. Mostly small tools I needed and couldn't find. That's the section below, and it's the part I want to keep growing.
+- **Client sites and stores** such as [CBIC](https://cbicbd.com/) and [Rayazen](https://rayazen.com/), built on Next.js and Postgres.
 
 If I don't know something, I say so, and then I go figure it out.
 
@@ -46,22 +46,38 @@ If I don't know something, I say so, and then I go figure it out.
 
 ## 🌱 Open Source
 
-Things I've built and released. Each one started as a problem I actually had.
+Things I've built and released. Each one started as a problem I actually had. All of it is free and open source.
 
-**[listnr](https://github.com/rokib16x/listnr)** · Swift, WhisperKit, CoreML
-A local meeting transcriber for Apple Silicon Macs. Captures your mic and system audio as two *separate* lanes and transcribes both on-device, because mixing them first makes Whisper invent confident, wrong sentences. Nothing leaves your machine. No bot joins the call.
+### On the Mac
+
+**[grabnr](https://github.com/rokib16x/grabnr)** · Rust, Tauri · [site](https://rokib16x.github.io/grabnr/)
+A download manager that uses every network connection at once: Wi-Fi, Ethernet, USB and phone tethering. Files are split into chunks and a worker on each link pulls from a shared queue, so faster links take more. Also does FTP, SFTP, torrents and HLS, with a browser extension and a CLI.
+
+**[hidnr](https://github.com/rokib16x/hidnr)** · Swift · [latest release](https://github.com/rokib16x/hidnr/releases/latest)
+Hide the menu bar icons you don't need. Built for macOS 27, works on macOS 14 and later. Signed and notarized.
+
+**[chargnr](https://github.com/rokib16x/chargnr)** · Swift · [latest release](https://github.com/rokib16x/chargnr/releases/latest)
+A free battery charge limiter for Apple Silicon Macs. Choose the level to stop at, with heat protection, calibration, history, a CLI and Shortcuts actions.
+
+**[listnr](https://github.com/rokib16x/listnr)** · Swift, WhisperKit, Core ML
+A local meeting transcriber. Captures your mic and system audio as two *separate* lanes and transcribes both on-device, because mixing them first makes Whisper invent confident, wrong sentences. Nothing leaves your machine. No bot joins the call.
+
+### In the browser
+
+**[hn-reader](https://github.com/rokib16x/hn-reader)** · Vanilla JS · [live](https://rokib16x.github.io/hn-reader/)
+A faster, searchable Hacker News front end in a single HTML file. No build step, no dependencies, no account.
 
 **[AppsyDev](https://github.com/rokib16x/appsyverse)** · Next.js, TypeScript, Gemini · [live](https://appsyverse.vercel.app)
-Mobile UI pattern library with 24,000+ screen references across 34 categories, with AI-generated implementation prompts for coding assistants. MIT licensed.
+Mobile UI pattern library with 24,000+ screen references across 34 categories, with AI-generated implementation prompts for coding assistants.
 
-**[BgRemovify](https://github.com/rokib16x/bgremovify)** · React, TypeScript, @imgly · [live](https://bgremovify.vercel.app)
+**[BgRemovify](https://github.com/rokib16x/bgremovify)** · React, TypeScript · [live](https://bgremovify.vercel.app)
 AI background removal that runs entirely in the browser. Your images never get uploaded anywhere.
 
-**[WebPify](https://github.com/rokib16x/WebPify)** · JavaScript, Canvas API · [live](https://webpify.vercel.app)
+**[WebPify](https://github.com/rokib16x/WebPify)** · JavaScript · [live](https://webpify.vercel.app)
 Batch image-to-WebP converter with adjustable compression and side-by-side comparison. Client-side, no server.
 
 **[Virtual Try-On](https://github.com/rokib16x/virtual-try-on)** · Next.js, MediaPipe Pose · [live](https://rokib-virtual.vercel.app)
-Browser-based AR dressing room. Garments track your shoulders and hips in real time via pose landmarks. No server, no GPU cost.
+Browser-based AR dressing room. Garments track your shoulders and hips in real time. No server, no GPU cost.
 
 ---
 
@@ -74,6 +90,7 @@ Browser-based AR dressing room. Garments track your shoulders and hips in real t
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -83,6 +100,7 @@ Browser-based AR dressing room. Garments track your shoulders and hips in real t
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🔧 Backend & Data
@@ -126,10 +144,10 @@ Browser-based AR dressing room. Garments track your shoulders and hips in real t
 
 ## 🎯 Current Focus
 
-- 🔭 Scaling Presswayy and shipping mobile apps to production
-- 🌱 Going deeper on React Native performance, Next.js App Router, and Postgres query optimization
-- 🛠️ Releasing more of my own tools as open source. On-device AI and browser-only processing are where my head is right now
-- 🤝 Open to contributions on anything above, especially [listnr](https://github.com/rokib16x/listnr)
+- 📲 Growing Lyffe on the App Store and shipping more mobile apps to production
+- 🖥️ Building native Mac tools in Swift and Rust, and keeping [grabnr](https://github.com/rokib16x/grabnr), [hidnr](https://github.com/rokib16x/hidnr) and [chargnr](https://github.com/rokib16x/chargnr) moving
+- 🔭 Scaling Presswayy, and going deeper on React Native performance, Next.js App Router and Postgres query optimization
+- 🤝 Open to contributions on anything above, especially [listnr](https://github.com/rokib16x/listnr) and [grabnr](https://github.com/rokib16x/grabnr)
 
 ---
 
